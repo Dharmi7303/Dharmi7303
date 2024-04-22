@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Dharmi7303
-- 👀 I’m interested in more in java, python,Web Technology and Data Science .
-- 🌱 I’m currently learning python,html,css,php,mysql and concepts of data science.
-- 💞️ I’m looking to collaborate on everything.
-- 📫 How to reach me ...search dharmi7303
+👋 Hi, I'm Dharmi! I'm passionate about Java, Python, Web Technology, and Data Science. I'm diving deeper into Python, HTML, React, Javascript, CSS, PHP, MySQL, and the exciting world of data science concepts. You can reach me by searching for "dharmi7303"! Let's connect and create something awesome together! 🚀
 
-<!---
-Dharmi7303/Dharmi7303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 LinkedIn: [linkedin.com/in/dharmijaviya](https://www.linkedin.com/in/dharmijaviya/)
+📧 Email: dharmijaviya@gmail.com
+
+Let's connect and create something awesome together! 🚀
