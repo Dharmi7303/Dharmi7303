@@ -6,9 +6,6 @@ I'm Dharmi! I'm passionate about Java, Python, Web Technology, and Data Science.
 
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR_USERNAME}/count.svg)
 
-## GitHub Stats
-
-![Dharmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmi7303&show_icons=true&theme=radical)
 
 
 ## Connect with me
