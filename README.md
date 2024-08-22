@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Dharmi! I'm passionate about innovation and believer in merging creativity with technical skill to deliver exceptional solutions. Eager to contribute skills to projects and make a meaningful impact. You can reach me by searching for "dharmi7303"! Let's connect and create something awesome together! 🚀
+I'm Dharmi! I'm passionate about innovation and believer in merging creativity with technical skill to deliver exceptional solutions. Eager to contribute skills to projects and make a meaningful impact. You can reach me by searching for "Dharmi7303"! Let's connect and create something awesome together! 🚀
 
 ## Visitors Count
 
