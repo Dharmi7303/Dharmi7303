@@ -14,9 +14,3 @@ I'm Dharmi! I'm passionate about innovation and believer in merging creativity w
 📧 Email: dharmijaviya@gmail.com
 
 Let's connect and create something awesome together! 🚀
-
-
-### 🌐 Visitors Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharmi7303&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count"/>
-</p>
